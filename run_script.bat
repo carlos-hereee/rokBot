@@ -1,0 +1,1 @@
+"C:/Users/almaz/AppData/Local/Programs/Python/Python38-32/python.exe" "c:/Users/almaz/Desktop/Projects/bots/gameBots/godai/play.py"
