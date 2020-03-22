@@ -1,8 +1,10 @@
 import tkinter as tk
 import pyautogui as auto
+from decouple import config
+import os
 
 # https://likegeeks.com/python-gui-examples-tkinter-tutorial/
-
+os.startfile(config('GAME_PATH'))
 window = tk.Tk()
 window.title("Game Bot")
 window.geometry('350x200')
